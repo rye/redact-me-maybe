@@ -15,3 +15,4 @@ require('redact-me-maybe')
 ## License
 
 `redact-me-maybe` is released under the ISC license.
+For more information, consult the `LICENSE` file located at the root of this repository.
