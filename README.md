@@ -1,5 +1,7 @@
 # redact-me-maybe
 
+[![npm version](https://img.shields.io/npm/v/redact-me-maybe.svg)](https://www.npmjs.com/package/redact-me-maybe "View on npm")
+
 Monkey-patches the `String` class to add a `.redact` prototype function that randomly redacts your text.
 
 Example:
