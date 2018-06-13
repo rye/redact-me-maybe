@@ -1,0 +1,15 @@
+{
+  "name": "redact-me-maybe",
+  "version": "1.0.0",
+  "description": "Randomly redact your strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "government",
+    "redact"
+  ],
+  "author": "Kristofer Rye <kristofer.rye@gmail.com>",
+  "license": "ISC"
+}
